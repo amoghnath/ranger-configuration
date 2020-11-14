@@ -1,3 +1,3 @@
 # ranger-configuration
 My ranger configuration with three colorschemes and devicons plugin
-![alt text](https://github.com/trackingtrail/ranger-configuration/sample-ranger.jpg?raw=true)
+![sample ranger](https://github.com/trackingtrail/ranger-configuration/blob/main/sample_ranger.jpg)
